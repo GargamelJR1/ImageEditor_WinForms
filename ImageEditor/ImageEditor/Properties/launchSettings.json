@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageEditor": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; IMAGE EDITOR
+; ASM procedures for applying filters to image
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+LIBRARY
+EXPORTS
+SepiaFilterASM
+BrightnessFilterASM
+ContrastFilterASM
+NegativeFilterASM
+GrayScaleFilterASM
+TransparencyFilterASM
