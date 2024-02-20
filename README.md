@@ -25,6 +25,13 @@ Download zip with release and open file ImageEditor.exe then load chosen image a
 * Benchmark - generate csv file results.csv with average processing time of all combinations of programming language and number of threads
 
 ## Screenshots
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/03ee9572-a247-44a1-bbef-2690953adcd8" width="40%"></img>
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/1f532b07-77fe-4afd-b9fb-580836741199" width="40%"></img>
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/14b2be0e-4227-4729-bc00-6716d6c144b9" width="40%"></img>
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/8de74e08-17ba-4a5c-90be-37c6553ac97b" width="40%"></img>
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/1a7d605d-b1dd-45f5-b6a5-d16090a218d2" width="40%"></img>
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/25055e9b-79ec-4541-a8cf-3afa94ddbad5" width="40%"></img>
+<img src="https://github.com/GargamelJR1/ImageEditor_WinForms/assets/91876652/001cf585-35b3-404e-bba8-b1e905ea25af" width="80%"></img>
 
 ## Compilation
 Open project with Visual Studio 2022 and run it
