@@ -8,7 +8,7 @@ Simple Image Editor with:
     * contrast
     * transparency
 
-All functions are implemented in C++, C# and x86-64 Assembly (with SSE2 instructions). Main program uses Windows Forms GUI. User could choose numbers of threads (in range 1-64) which will be used to process them image. It is also possible to generate csv file with all combinations of programming languages and number of threads with processing times, which file can be used to generate plot.
+All functions are implemented in C++, C# and x86-64 Assembly (with AVX2 instructions). Main program uses Windows Forms GUI. User could choose numbers of threads (in range 1-64) which will be used to process them image. It is also possible to generate csv file with all combinations of programming languages and number of threads with processing times, which file can be used to generate plot.
 
 
 ## How to run
